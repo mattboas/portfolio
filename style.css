@@ -133,6 +133,65 @@ h4{
     transition: all 0.5s;
     cursor: pointer;
     }
+
+    .hjem2 .button{
+        opacity: 80%;
+        position: absolute;
+        margin-top: 180px;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        z-index: 1;
+        border-radius: 2px;
+        background-color: #ffffff;
+        border: none;
+        color: #de571d;
+        text-align: center;
+        font-size: 20px;
+        padding: 15px;
+        width: 200px;
+        transition: all 0.5s;
+        cursor: pointer;
+        }
+
+        .hjem3 .button{
+            opacity: 80%;
+            position: absolute;
+            margin-top: 180px;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            z-index: 1;
+            border-radius: 2px;
+            background-color: #ffffff;
+            border: none;
+            color: #de571d;
+            text-align: center;
+            font-size: 20px;
+            padding: 15px;
+            width: 200px;
+            transition: all 0.5s;
+            cursor: pointer;
+            }
+        
+            .hjem4 .button{
+                opacity: 80%;
+                position: absolute;
+                margin-top: 180px;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                z-index: 1;
+                border-radius: 2px;
+                background-color: #ffffff;
+                border: none;
+                color: #de571d;
+                text-align: center;
+                font-size: 20px;
+                padding: 15px;
+                width: 200px;
+                transition: all 0.5s;
+                cursor: pointer;
+                }
+
+    
       
       .button span {
         cursor: pointer;
