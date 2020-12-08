@@ -14,6 +14,9 @@ nav{
     background: #efece7;
     height: 80px;
     width: 100%;
+    position: fixed;
+    z-index: 2;
+    
 }
 
 label.logo{
@@ -76,7 +79,7 @@ a.aktiv,a:hover{
 }
 
 h1{
-    padding-top: 150px;
+    padding-top: 40px;
     position: absolute;
   top: 50%;
   left: 50%;
@@ -86,7 +89,7 @@ h1{
 }
 
 h2{
-    padding-top: 950px;
+    padding-top: 820px;
     position: absolute;
   top: 50%;
   left: 50%;
@@ -96,7 +99,7 @@ h2{
 }
 
 h3{
-    padding-top: 1750px;
+    padding-top: 1610px;
     position: absolute;
   top: 50%;
   left: 50%;
@@ -106,7 +109,7 @@ h3{
 }
 
 h4{
-    padding-top: 2550px;
+    padding-top: 2390px;
     position: absolute;
   top: 50%;
   left: 50%;
@@ -118,7 +121,7 @@ h4{
 .hjem1 .button{
     opacity: 80%;
     position: absolute;
-    top: 70%;
+    top: 60%;
     left: 50%;
     transform: translate(-50%, -50%);
     z-index: 1;
@@ -260,23 +263,24 @@ h4{
     }
     #check:checked ~ ul{
         left: 0;
+        z-index: 2;
     }
 
     h1 {
         font-size: 35px;
-        margin-top: 165px;
+        margin-top: 155px;
     }
     h2 {
         font-size: 35px;
-        margin-top: -35px;
+        margin-top: -45px;
     }
     h3 {
         font-size: 35px;
-        margin-top: -240px;
+        margin-top: -245px;
     }
     h4 {
         font-size: 35px;
-        margin-top: -450px;
+        margin-top: -440px;
     }
     .hjem1 img{
         height: 200px;
@@ -298,7 +302,7 @@ h4{
     }
 
     .hjem1 .button{
-    margin-top: 120px;
+    margin-top: 130px;
     padding: 5px;
     }
     .hjem2 .button{
