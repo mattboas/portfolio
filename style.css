@@ -190,8 +190,6 @@ h4{
                 transition: all 0.5s;
                 cursor: pointer;
                 }
-
-    
       
       .button span {
         cursor: pointer;
@@ -274,7 +272,7 @@ h4{
     }
     h3 {
         font-size: 35px;
-        margin-top: -250px;
+        margin-top: -240px;
     }
     h4 {
         font-size: 35px;
@@ -298,5 +296,22 @@ h4{
         height: 200px;
         margin-top: -10px;
     }
+
+    .hjem1 .button{
+    margin-top: 120px;
+    padding: 5px;
+    }
+    .hjem2 .button{
+        margin-top: 80px;
+        padding: 5px;
+        }
+    .hjem3 .button{
+        margin-top: 80px;
+        padding: 5px;
+        }
+    .hjem4 .button{
+        margin-top: 80px;
+        padding: 5px;
+        }
 }
 
