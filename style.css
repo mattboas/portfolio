@@ -248,12 +248,43 @@ h5{
     position: absolute;
     margin-left: 125px;
     margin-top: 200px;
-    
+
+}
+
+  
+  .cv > div {
+    position: absolute;
+    margin-top: 800px;
+    margin-left: 125px;
+    width: 500px;
+    height: 900px;
+    color: #707070;
+    text-align: left;
+    line-height: 50px;
+    font-size: 20px;
+  }
+  .cv > div p{
+      color: black;
+      font-size: 25px;
+  }
+
+  .rolle > div {
+    float: right;
+    margin-top: 800px;
+
+    width: 500px;
+    height: 900px;
+    color: #707070;
+    text-align: left;
+    line-height: 50px;
+    font-size: 20px;
+  }
+  .rolle > div p{
+    color: black;
+    font-size: 25px;
 }
 
     
-
-
 
 .footer{
     margin-top: -5px;
