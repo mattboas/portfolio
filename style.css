@@ -7,8 +7,9 @@
     font-family: 'Ropa Sans', sans-serif;
 }
 
-
-    
+body{
+    background: #efece7;
+}
 
 nav{
     background: #efece7;
@@ -219,6 +220,36 @@ h4{
         right: 0;
 }
 
+.knap{
+    margin-top: 80px;
+    margin-right: 20px;
+    padding: 20px 28px;
+    border-radius: 50%;
+    border: none;
+    background-color: black;
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: bold;
+    float: right;
+}
+.knap:hover{
+    opacity: 50%;
+}
+
+h5{
+    margin-top: 100px;
+    margin-left: 25px;
+    position: absolute;
+    font-size: 30px;
+    color: #707070;
+
+
+}
+
+    
+
+
+
 .footer{
     margin-top: -5px;
     padding-left: 10px;
@@ -232,7 +263,9 @@ h4{
    color: white;
    text-align: left;
 }
-    
+
+
+
 
 
 @media (max-width: 952px){
