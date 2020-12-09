@@ -218,6 +218,20 @@ h4{
         opacity: 1;
         right: 0;
 }
+
+.footer{
+    margin-top: -5px;
+    padding-left: 10px;
+    padding-top: 20px;
+    height: 120px;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #707070;
+
+   color: white;
+   text-align: left;
+}
     
 
 
