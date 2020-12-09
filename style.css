@@ -223,7 +223,7 @@ h4{
 .knap{
     margin-top: 80px;
     margin-right: 20px;
-    padding: 20px 28px;
+    padding: 20px 30px;
     border-radius: 50%;
     border: none;
     background-color: black;
@@ -240,10 +240,15 @@ h5{
     margin-top: 100px;
     margin-left: 25px;
     position: absolute;
-    font-size: 30px;
+    font-size: 40px;
     color: #707070;
+}
 
-
+.bagrettetimg{
+    position: absolute;
+    margin-left: 125px;
+    margin-top: 200px;
+    
 }
 
     
