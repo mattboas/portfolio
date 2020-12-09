@@ -222,7 +222,7 @@ h4{
 
 .knap{
     margin-top: 80px;
-    margin-right: 20px;
+    margin-right: 75px;
     padding: 20px 30px;
     border-radius: 50%;
     border: none;
@@ -238,7 +238,7 @@ h4{
 
 h5{
     margin-top: 100px;
-    margin-left: 25px;
+    margin-left: 75px;
     position: absolute;
     font-size: 40px;
     color: #707070;
@@ -440,15 +440,16 @@ h5{
         
         .knap{
             margin-top: 95px;
-            margin-right: 20px;
+            margin-right: 40px;
             padding: 10px 15px;
-            border-radius: 50%;
-            border: none;
-            background-color: black;
-            color: #ffffff;
             font-size: 20px;
-            font-weight: bold;
-            float: right;
+        }
+        
+        h5{
+            
+            margin-left: 20px;
+            
+            
         }
 }
 
