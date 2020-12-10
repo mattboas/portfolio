@@ -287,6 +287,11 @@ h5{
     font-size: 25px;
 }
 
+#map{
+    height: 500px;
+    width: 100%;
+}
+
     
 
 .footer{
