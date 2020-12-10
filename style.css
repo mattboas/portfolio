@@ -333,11 +333,11 @@ h6{
     float: right;
     font-size: 18px;
     margin-right: 125px;
-    margin-top: 430px;
+    margin-top: 420px;
     max-width: 700px;
     color: #707070;
     line-height: 30px;
-    
+
 }
 
 
@@ -502,6 +502,39 @@ h6{
         h5{
             
             margin-left: 20px;
+        }
+
+        .port{
+            
+            margin-top: 100px;
+            margin-left: 25px;
+            
+        }
+        
+        .port p{
+            padding-top: 0px;
+            font-size: 18px;
+            margin-top: 10px;
+            line-height: 25px;
+            font-weight: normal;
+        }
+        
+        .port img{
+            height: 300px;
+            margin-bottom: 10px;
+            margin-left: 45px;
+            
+        }
+        
+        h6{
+            float: left;
+            font-size: 18px;
+            margin-left: 25px;
+            margin-top: 50px;
+            font-weight: normal;
+            line-height: 25px;
+            margin-bottom: 20px;
+            
         }
 }
 
