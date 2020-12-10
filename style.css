@@ -508,7 +508,7 @@ h6{
             
             margin-top: 100px;
             margin-left: 25px;
-            float: left;
+            
         }
         
         .port p{
@@ -516,6 +516,7 @@ h6{
             font-size: 18px;
             margin-top: 10px;
             line-height: 25px;
+            font-weight: normal;
         }
         
         .port img{
@@ -530,8 +531,9 @@ h6{
             font-size: 18px;
             margin-left: 25px;
             margin-top: 50px;
-            max-width: 300px;
+            font-weight: normal;
             line-height: 25px;
+            margin-bottom: 20px;
             
         }
 }
