@@ -141,7 +141,7 @@ h4{
     .hjem2 .button{
         opacity: 80%;
         position: absolute;
-        margin-top: 180px;
+        margin-top: 150px;
         left: 50%;
         transform: translate(-50%, -50%);
         z-index: 1;
@@ -160,7 +160,7 @@ h4{
         .hjem3 .button{
             opacity: 80%;
             position: absolute;
-            margin-top: 180px;
+            margin-top: 150px;
             left: 50%;
             transform: translate(-50%, -50%);
             z-index: 1;
@@ -179,7 +179,7 @@ h4{
             .hjem4 .button{
                 opacity: 80%;
                 position: absolute;
-                margin-top: 180px;
+                margin-top: 150px;
                 left: 50%;
                 transform: translate(-50%, -50%);
                 z-index: 1;
