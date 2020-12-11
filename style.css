@@ -271,6 +271,8 @@ h5{
       font-size: 25px;
   }
 
+  
+
   .rolle > div {
     float: right;
     margin-top: 795px;
@@ -283,6 +285,22 @@ h5{
     font-size: 20px;
   }
   .rolle > div p{
+    color: black;
+    font-size: 25px;
+}
+
+.rolle1 > div {
+    float: right;
+    margin-top: 795px;
+
+    width: 500px;
+
+    color: #707070;
+    text-align: left;
+    line-height: 50px;
+    font-size: 20px;
+  }
+  .rolle1 > div p{
     color: black;
     font-size: 25px;
 }
@@ -413,15 +431,15 @@ h6{
     }
     h2 {
         font-size: 35px;
-        margin-top: -45px;
+        margin-top: -70px;
     }
     h3 {
         font-size: 35px;
-        margin-top: -245px;
+        margin-top: -270px;
     }
     h4 {
         font-size: 35px;
-        margin-top: -440px;
+        margin-top: -465px;
     }
     .hjem1 img{
         height: 200px;
@@ -536,6 +554,22 @@ h6{
             line-height: 25px;
             margin-bottom: 20px;
             
+        }
+        .rolle1 > div {
+            float: left;
+            margin-top: 850px;
+            margin-left: 25px;
+            width: 500px;
+        
+            color: #707070;
+            text-align: left;
+            line-height: 30px;
+            font-size: 15px;
+            max-width: 300px;
+          }
+          .rolle1 > div p{
+            color: black;
+            font-size: 25px;
         }
 }
 
